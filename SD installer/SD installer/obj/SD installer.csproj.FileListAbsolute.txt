@@ -1,0 +1,16 @@
+G:\CSharp\Projects\Silverlight Designer\SD installer\SD installer\obj\Debug\SD installer.exe
+G:\CSharp\Projects\Silverlight Designer\SD installer\SD installer\obj\Debug\SD installer.pdb
+G:\CSharp\Projects\Silverlight Designer\SD installer\SD installer\bin\Release\SD installer.exe
+G:\CSharp\Projects\Silverlight Designer\SD installer\SD installer\bin\Release\SD installer.pdb
+G:\CSharp\Projects\Silverlight Designer\SD installer\SD installer\obj\Release\ResolveAssemblyReference.cache
+G:\CSharp\Projects\Silverlight Designer\SD installer\SD installer\obj\Release\SD_installer.Form1.resources
+G:\CSharp\Projects\Silverlight Designer\SD installer\SD installer\obj\Release\SD_installer.Properties.Resources.resources
+G:\CSharp\Projects\Silverlight Designer\SD installer\SD installer\obj\Release\SD installer.csproj.GenerateResource.Cache
+G:\CSharp\Projects\Silverlight Designer\SD installer\SD installer\obj\Release\SD installer.exe
+G:\CSharp\Projects\Silverlight Designer\SD installer\SD installer\obj\Release\SD installer.pdb
+G:\CSharp\Projects\Silverlight Designer\SD installer\SD installer\bin\Debug\SD installer.exe
+G:\CSharp\Projects\Silverlight Designer\SD installer\SD installer\bin\Debug\SD installer.pdb
+G:\CSharp\Projects\Silverlight Designer\SD installer\SD installer\obj\Debug\ResolveAssemblyReference.cache
+G:\CSharp\Projects\Silverlight Designer\SD installer\SD installer\obj\Debug\SD_installer.Form1.resources
+G:\CSharp\Projects\Silverlight Designer\SD installer\SD installer\obj\Debug\SD_installer.Properties.Resources.resources
+G:\CSharp\Projects\Silverlight Designer\SD installer\SD installer\obj\Debug\SD installer.csproj.GenerateResource.Cache

@@ -1,0 +1,1 @@
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\bin\Release

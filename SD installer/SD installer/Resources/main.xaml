@@ -1,0 +1,8 @@
+<Canvas
+   xmlns="http://schemas.microsoft.com/client/2007"
+   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<TextBlock FontSize="12" FontFamily="Microsoft Sans Serif" Canvas.Top="252" Canvas.Left="72" x:Name="Text0">Text0</TextBlock>
+<Rectangle Canvas.Top="225" Canvas.Left="37" Width="215" Height="52" Fill="LightYellow" Stroke="Black" StrokeThickness="1" x:Name="Rect0" />
+<Ellipse Canvas.Top="55" Canvas.Left="62" Width="222" Height="173" Fill="LightYellow" Stroke="Black" StrokeThickness="1" x:Name="Ellipse0" />
+
+</Canvas>

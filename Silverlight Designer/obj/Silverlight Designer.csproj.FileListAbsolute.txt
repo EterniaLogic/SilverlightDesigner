@@ -1,0 +1,26 @@
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\bin\Release\Silverlight Designer.exe.config
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\obj\Release\Silverlight Designer.exe
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\obj\Release\Silverlight Designer.pdb
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\bin\Release\Silverlight Designer.exe
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\bin\Release\Silverlight Designer.pdb
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\obj\Release\ResolveAssemblyReference.cache
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\obj\Release\Silverlight_Designer.AboutBox1.resources
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\obj\Release\Silverlight_Designer.SD.resources
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\obj\Release\Silverlight_Designer.Properties.Resources.resources
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\obj\Release\Silverlight Designer.csproj.GenerateResource.Cache
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\bin\Debug\Silverlight Designer.exe.config
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\bin\Debug\Silverlight Designer.exe
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\bin\Debug\Silverlight Designer.pdb
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\obj\Debug\ResolveAssemblyReference.cache
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\obj\Debug\Silverlight_Designer.AboutBox1.resources
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\obj\Debug\Silverlight_Designer.SD.resources
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\obj\Debug\Silverlight_Designer.Properties.Resources.resources
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\obj\Debug\Silverlight Designer.csproj.GenerateResource.Cache
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\obj\Debug\Silverlight Designer.exe
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\obj\Debug\Silverlight Designer.pdb
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\obj\Release\Silverlight_Designer.start.resources
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\obj\Debug\Silverlight_Designer.start.resources
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\obj\Release\Silverlight_Designer.Editor.resources
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\obj\Release\Silverlight_Designer.SpeedyView.resources
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\obj\Debug\Silverlight_Designer.Editor.resources
+G:\C#\Projects\Silverlight Designer\Silverlight Designer\obj\Debug\Silverlight_Designer.SpeedyView.resources

@@ -1,0 +1,20 @@
+obj\Release\Silverlight Designer.exe
+obj\Release\Silverlight Designer.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Silverlight_Designer.SD.resources
+obj\Release\Silverlight_Designer.Properties.Resources.resources
+obj\Release\Silverlight Designer.csproj.GenerateResource.Cache
+bin\Release\Silverlight Designer.exe
+bin\Release\Silverlight Designer.pdb
+obj\Release\Silverlight_Designer.AboutBox1.resources
+bin\Release\Silverlight Designer.exe.config
+bin\Debug\Silverlight Designer.exe.config
+bin\Debug\Silverlight Designer.exe
+bin\Debug\Silverlight Designer.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Silverlight_Designer.AboutBox1.resources
+obj\Debug\Silverlight_Designer.SD.resources
+obj\Debug\Silverlight_Designer.Properties.Resources.resources
+obj\Debug\Silverlight Designer.csproj.GenerateResource.Cache
+obj\Debug\Silverlight Designer.exe
+obj\Debug\Silverlight Designer.pdb

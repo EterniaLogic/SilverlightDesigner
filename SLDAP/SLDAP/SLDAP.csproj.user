@@ -1,0 +1,8 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartWorkingDirectory>G:\CSharp\Projects\Silverlight Designer\SLDAP\SLDAP\bin\Debug\</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartWorkingDirectory>G:\CSharp\Projects\Silverlight Designer\SLDAP\SLDAP\bin\Debug\</StartWorkingDirectory>
+  </PropertyGroup>
+</Project>
